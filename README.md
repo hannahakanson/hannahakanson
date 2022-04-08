@@ -3,6 +3,8 @@
 
 <div align="center"> 🌱 I’m currently learning **Vue, React**</div>
 
+<div align="center"> 👀 Currently looking for a fall internship!** </div>
+
 <div align="center"> 📫 How to reach me **hannahakanson@medieinstitutet.se** </div>
 
 <h3 align="center">Connect with me:</h3>
