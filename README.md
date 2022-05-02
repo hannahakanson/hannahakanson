@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Hanna!</h1>
 <h3 align="center">A frontend developer student with a soft spot for UX/UI.</h3>
 
-<div align="center"> 🌱 I’m currently learning **Vue, React**</div>
+<div align="center"> 🌱 I’m currently learning Vue, React</div>
 
-<div align="center"> 👀 Currently looking for a fall internship!** </div>
+<div align="center"> 👀 Currently looking for a fall internship! </div>
 
-<div align="center"> 📫 How to reach me **hannahakanson@medieinstitutet.se** </div>
+<div align="center"> 📫 How to reach me: hannahakanson@medieinstitutet.se </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
