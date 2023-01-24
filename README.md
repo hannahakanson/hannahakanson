@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋 I'm Hanna!</h1>
 <h3 align="center">A frontend developer student with a soft spot for UX/UI.</h3>
 
+<div align="center">
+<a href="https://github.com/hannahakanson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahakanson&title_color=ffffff&line_height=32&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+  </div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1d1f21?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-1d1f21?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1d1f21?style=for-the-badge&logo=tailwindcss&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-1d1f21?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-1d1f21?style=for-the-badge&logo=next.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-1d1f21?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-1d1f21?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-1d1f21?style=for-the-badge&logo=adobexd)
+
 <div align="center"> 🌱 I’m currently working with React and TypeScript</div>
 
 <div align="center"> 📫 How to reach me: hannahakanson@medieinstitutet.se </div>
@@ -9,9 +33,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/hanna-håkanson-02850516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanna-håkanson-02850516a" height="30" width="40" /></a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
 <!--
