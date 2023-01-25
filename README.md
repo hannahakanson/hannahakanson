@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋 I'm Hanna!</h1>
 <h3 align="center">A frontend developer student with a soft spot for UX/UI.</h3>
 
-<div align="center">
-<a href="https://github.com/hannahakanson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahakanson&title_color=ffffff&line_height=32&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-  </div>
+<hr/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1d1f21?style=for-the-badge&logo=typescript)
@@ -25,9 +21,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-1d1f21?style=for-the-badge&logo=adobexd)
 
-<div align="center"> 🌱 I’m currently working with React and TypeScript</div>
+<div align="left"> 🌱 I’m currently working with React and TypeScript</div>
 
-<div align="center"> 📫 How to reach me: hannahakanson@medieinstitutet.se </div>
+<div align="left"> 📫 How to reach me: hannahakanson@medieinstitutet.se </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
